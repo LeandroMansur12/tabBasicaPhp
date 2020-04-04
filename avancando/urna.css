@@ -1,0 +1,27 @@
+
+
+.votoLula{
+	border: 2px solid black;
+	width:100px;
+
+
+}
+
+.votoBolsonaro{
+	border: 2px solid black;
+	width:100px;
+
+}
+
+.votoNulo{
+	border: 2px solid black;
+	width:100px;
+
+}
+form{
+
+		border:3px solid black;
+		width: 250px;
+		padding-top: 30px;
+		text-align: center;
+	}
